@@ -1,1 +1,1 @@
-If yoi want rto segrigate any data you can segregate that data into multiple file
+If yoi want to segrigate any data you can segregate that data into multiple file
